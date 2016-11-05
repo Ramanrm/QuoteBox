@@ -1,0 +1,22 @@
+.qbox {
+	  display: inline-block;
+	  position: fixed;
+	  top: 0;
+	  bottom: 0;
+	  left: 0;
+	  right: 0;
+	  width: 50%;
+	  height: 50%;
+	  margin: auto;
+	  border-radius: 2%;
+}
+#quote {
+	  text-align: center;
+	  color: white;
+	  text-size: 20px;
+}
+h1 {
+	  font-family: 'Rock Salt', cursive;
+	  text-align: center;
+	  margin-top: 7%;
+}
